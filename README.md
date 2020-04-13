@@ -1,7 +1,9 @@
 # Anywhere-use-systematic-Flask-web-app
 Flask web-app  with systematic flask file structure, ready-to-use template and using it anywhere for any project, using PyCharm.
 
-Complete guide available: 
+Complete guide available: https://medium.com/@hasan123.haider/create-anywhere-use-flask-web-app-with-pycharm-fa67719df4d7
+
+
 Table of content:
 1. Installation and configuration
 2. Flask files hierarchy
